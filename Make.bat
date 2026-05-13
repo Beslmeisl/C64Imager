@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --name "C64 Imager" --paths . app\main.py
